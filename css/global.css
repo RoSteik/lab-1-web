@@ -1,0 +1,31 @@
+body {
+    background: #fff;
+    font-family: "Roboto", "Arial", sans-serif;
+    color: #3e4852;
+}
+
+a {
+    text-decoration: none;
+    color: #303638;
+}
+
+li {
+    display: block;
+}
+
+/* Global classes */
+
+.container {
+    margin: 0 auto;
+    max-width: 1110px;
+}
+
+.default-button {
+    background: white;
+    border-radius: 30px;
+    color: #1092c9;
+    border-color: #09a3e6;
+    height: 60px;
+    width: 200px;
+}
+

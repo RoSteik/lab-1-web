@@ -1,0 +1,77 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-nav ul {
+    display: flex;
+}
+
+.header-nav-item {
+    color: #8b9ea6;
+    margin-right: 50px;
+}
+
+.header-nav-link-home {
+    font-weight: bold;
+    position: absolute;
+    left: 12.97%;
+    right: 84.03%;
+    top: 2.69%;
+    bottom: 96.85%;
+
+}
+
+.header-nav-link-find-a-doctor {
+    position: absolute;
+    left: 18.6%;
+    right: 74.76%;
+    top: 2.68%;
+    bottom: 96.85%;
+}
+
+.header-nav-link-apps {
+    position: absolute;
+    left: 27.79%;
+    right: 69.58%;
+    top: 2.69%;
+    bottom: 96.72%;
+}
+
+.header-nav-link-testimonials {
+    position: absolute;
+    left: 32.97%;
+    right: 60.7%;
+    top: 2.68%;
+    bottom: 96.85%;
+}
+
+.header-nav-link-about-us {
+    position: absolute;
+    left: 41.87%;
+    right: 53.57%;
+    top: 2.68%;
+    bottom: 96.85%;
+}
+
+.header-image {
+    background-image: url(../images/ellipse.svg);
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 1530px;
+    top: 25px;
+}
+
+.header-trafalgar {
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    left: 83.4%;
+    right: 10.07%;
+    top: 2.65%;
+    bottom: 96.54%;
+}
+
+
